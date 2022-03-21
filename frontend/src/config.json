@@ -1,0 +1,5 @@
+{
+    "updateAuthority": "<Your updateAuthority>",
+    "network" : "mainnet",
+    "discordURL": "http://localhost:9090"
+}
