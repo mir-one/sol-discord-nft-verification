@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Kanit:wght@600&family=Oxygen&family=Raleway:ital,wght@1,600&family=Spectral:ital,wght@1,200&display=swap');
+.bodyy{
+    background: linear-gradient(139.73deg, rgb(49, 61, 92) 0%, rgb(61, 42, 84) 100%);
+    font-family: Kanit, sans-serif;
+  }
+  
+  .h1{
+    color: #9457FB;
+    font-size: 3rem;
+  }
+  .connectButton button{
+    background-color: #9457FB;
+    border-color: #9457FB;
+    color: #fff;
+    width: 10rem;
+    height: 3rem;
+        
+  }
+
+  #dcButton button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+    margin: 2rem;
+    height: 2rem;
+    background-color: #9457FB;
+    border-color: #9457FB;
+  }
+  #dcButton button:hover{
+    transform: scale(0.8);
+  }
+  #dcButton button:active{
+    transform: scale(0.5);
+    transition: ease-in-out 0.8s;
+  }
+  .connectButton button:hover{
+    transform: scale(1.05);
+  }
+  .connectButton button:active{
+    transform: scale(0.9);
+    transition: ease-in-out 0.2s;
+  }
+
+  .table table{
+    background-color: #9457FB;
+  }
+  /* #dcButton button:end{
+    transform: scale(0.1);
+    transition: ease-in-out 1s;
+  } */
+
+  .tableData{
+    position: relative;
+    right: 1.5rem;
+  }
+  .tableDataR{
+    position: relative;
+    left: 1.5rem;
+  }
+
+  .tableDataIcon{
+    position: relative;
+    bottom: 0.5rem;
+    right: 0.5rem;
+  }
