@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Kanit, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.styled-button button{
+  margin: 1rem;
+}
+
+#styled-input input{
+  margin: 2rem;
+  align-items: center;
+  justify-content: center;
+  
+}
+#styled-input input{
+  margin: 2rem;
+  
+}
